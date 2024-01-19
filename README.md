@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Arnab Manna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <img align = "right"  alt = "coding" width ="400" src = "https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 
 <p align="left"> <a href="https://twitter.com/arnaab10" target="blank"><img src="https://img.shields.io/twitter/follow/arnaab10?logo=twitter&style=for-the-badge" alt="arnaab10" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, JavaScript**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 💬 Ask me about **WEB, Android**
 
